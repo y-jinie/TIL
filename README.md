@@ -3,5 +3,5 @@
 - 각종 분야의 domain 지식 내용
 
 # Index
-1. Github
-2.
+1. Python
+2. Github
