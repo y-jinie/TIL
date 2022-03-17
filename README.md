@@ -4,4 +4,4 @@
 
 # Index
 1. Python
-2. Github
+2. Algorithm
